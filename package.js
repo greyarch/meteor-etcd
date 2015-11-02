@@ -1,7 +1,7 @@
 Package.describe({
   name: 'greyarch:etcd',
   version: '0.1.0',
-  summary: 'A nodejs library for etcd. This is a wrapper for the node-etcd NPM package.',
+  summary: 'A nodejs library for etcd. This is a wrapper of the node-etcd NPM package.',
   git: '',
   documentation: 'README.md'
 });
